@@ -42,6 +42,9 @@ import java.util.Queue;
 
 import android_serialport_api.SerialPortFinder;
 
+/**
+ *  测试下代码上传github
+ */
 public class MainActivity extends AppCompatActivity {
     EditText editTextRecDisp, editTextLines, editTextCOMA; //接受数据和发送数据的显示编辑文本框。
     EditText editTextTimeCOMA;      //循环发送时间编辑框。
