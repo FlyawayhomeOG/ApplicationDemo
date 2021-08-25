@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
     SerialPortFinder mSerialPortFinder;//获取设备的串口信息。
     AssistBean AssistData;//  串口数据发送对象。
     int iRecLines = 0;//
-
+    int Testnumb=0;
     /**
      * Activity 启动后的主循环功能函数。
      * @param savedInstanceState
